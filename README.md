@@ -1,0 +1,1 @@
+Welcome to my DataCamp Projects repository! This repo contains hands-on data science and machine learning projects I completed on DataCamp, covering real-world datasets and practical skills in Python, pandas, data visualization, and more.
